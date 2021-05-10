@@ -1,12 +1,8 @@
 # Auditing Twitter Harassment Detection Models for Racial Bias
 ## Walkthrough of Included Files
-I include several files in this folder. The first two are the main text of the report and the accompanying code. The remaining files deal with cleaning and pre-processing or are helper functions called within the notebooks.
+I include several files in this folder. The first two files are the main text of the report and the accompanying code. The remaining files deal with cleaning and pre-processing or are helper functions called within the notebooks. More details below:
 
-### Data
-- The [Golbeck et al. (2017)](https://dl.acm.org/doi/10.1145/3091478.3091509) harassment corpus cannot be made publicly available due to privacy concerns. Please contact the authors for access (subject to a terms of use agreement).
-- The [Blodgett et al. (2016)](https://www.aclweb.org/anthology/D16-1120/) TwitterAAE corpus is publicly available and can be downloaded [from here](https://www.aclweb.org/anthology/D16-1120/).
-
-### Twitter-Harassment-Detection.pdf
+### Project-Twitter-Harassment-Detection.pdf
 - Full report of analysis
 
 ### Twitter Harassment Detection.ipynb
@@ -14,6 +10,10 @@ I include several files in this folder. The first two are the main text of the r
   - Visualization of word embeddings
   - Model construction, training, and validation
   - Model evaluation and assessment of racial bias
+
+### Data
+- The [Golbeck et al. (2017)](https://dl.acm.org/doi/10.1145/3091478.3091509) harassment corpus cannot be made publicly available due to privacy concerns. Please contact the authors for access (subject to a terms of use agreement).
+- The [Blodgett et al. (2016)](https://www.aclweb.org/anthology/D16-1120/) TwitterAAE corpus is publicly available and can be downloaded [from here](https://www.aclweb.org/anthology/D16-1120/).
 
 ### Data Build.ipynb
 - Main data cleaning and pre-processing program
