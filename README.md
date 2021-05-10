@@ -2,7 +2,7 @@
 ## Walkthrough of Included Files
 I include several files in this folder. The first two files are the main text of the report and the accompanying code. The remaining files deal with cleaning and pre-processing or are helper functions called within the notebooks. More details below:
 
-### Project-Twitter-Harassment-Detection.pdf
+### Twitter-Harassment-Detection.pdf
 - Full report of analysis
 
 ### Twitter Harassment Detection.ipynb
